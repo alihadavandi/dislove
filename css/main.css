@@ -52,3 +52,10 @@ div.wrapper>p{
     height: 400px;
     position: relative;
   }
+
+  div.products{
+    width: 250px;
+    height: 250px;
+    background-color: orangered;
+    margin: 50px auto;
+  }
